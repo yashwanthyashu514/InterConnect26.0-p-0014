@@ -1,3 +1,6 @@
+PROBLEM TITLE :
+Bridging the industry mentorship gap through interest based Student guidance.
+
 PROBLEM STATEMENT :
 
 Academic institutions provide students with essential theoretical knowledge, but many learners face challenges in translating this knowledge into industry-relevant skills and career outcomes. The absence of a structured mentorship framework often leaves students uncertain about the technologies to learn, projects to build, and career roadmap to follow.
@@ -39,3 +42,14 @@ KEY FEATURES :
  * Industry expert webinars
  * Placement preparation resources
  * Learning progress dashboard
+
+ TEAM MEMBERS :
+ Niharika A S
+ Preeti B Sankratti
+ Srujana M C
+ Vidya R
+ Yasha R
+ Sharon Sharu
+
+Coordinator :
+Yashwanth M
